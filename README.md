@@ -48,7 +48,7 @@
 ## 📫 Connect with Me:
 
 <p>
-  <a href="https://https://www.linkedin.com/in/atharva-kadam-176325328/" target="_blank">
+  <a href="https://www.linkedin.com/in/atharva-kadam-176325328/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:atharvakailaskadam1809@gmail.com">
