@@ -17,28 +17,28 @@
 ## 🧠 Skills & Tools:
 
 ### 👨‍💻 Languages:
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50" title="HTML" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50" title="CSS" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" title="JavaScript" />
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" title="Java" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50" title="Python" />
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50" title="C" />
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="50" title="C++" />
 </p>
 
 ### 🚀 Frameworks, Libraries & Runtime:
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="50" title="React" />
 </p>
 
 ### 🛠 Tools & OS:
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="50" title="Git" />
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50" title="GitHub" />
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50" title="VS Code" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="50" title="Ubuntu" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50" title="Kali Linux" />
 </p>
 
 ---
@@ -59,17 +59,15 @@
 </p>
 
 ---
-
 ## 📫 Connect with Me:
 
-<p>
   <a href="https://www.linkedin.com/in/atharva-kadam-176325328/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" title="LinkedIn" />
   </a>
   <a href="mailto:atharvakailaskadam1809@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" title="Gmail" />
   </a>
-</p>
+
 
 ---
 
