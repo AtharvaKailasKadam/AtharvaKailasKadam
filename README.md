@@ -10,7 +10,7 @@
 
 - 📚 Preparing for technical interviews focused on **HTML, CSS, JavaScript, OOP & DSA**  
 - 💡 Always exploring **new technologies** and **creative solutions**  
-- ⚡ Fun fact: I love debugging complex issues and turning ideas into reality!
+- ⚡ Fun fact: I love debugging issues and turning ideas into reality!
 
 ---
 
