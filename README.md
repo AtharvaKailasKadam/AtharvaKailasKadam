@@ -38,7 +38,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50" title="GitHub" />
   <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50" title="VS Code" />
 <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" width="50" alt="Ubuntu Logo" title="Ubuntu" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50" title="Kali Linux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="58" title="Kali Linux" />
 </p>
 
 ---
