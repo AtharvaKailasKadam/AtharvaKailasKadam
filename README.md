@@ -23,7 +23,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" title="JavaScript" />
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" title="Java" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50" title="Python" />
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50" title="C" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="45" alt="C Logo" title="C" />
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="50" title="C++" />
 </p>
 
@@ -37,7 +37,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="50" title="Git" />
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50" title="GitHub" />
   <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50" title="VS Code" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="50" title="Ubuntu" />
+<img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" width="50" alt="Ubuntu Logo" title="Ubuntu" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="50" title="Kali Linux" />
 </p>
 
