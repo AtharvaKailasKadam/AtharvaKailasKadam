@@ -4,6 +4,14 @@
 🚀 Passionate about building modern web apps | 🛡 Cybersecurity Enthusiast | 💡 Tech Explorer  
 </p>
 
+---
+
+## 🌟 Quick Snapshot
+
+- 🎓 Student exploring **Web Development & Cybersecurity**  
+- 🛠 Currently leveling up in **HTML, CSS, JavaScript, OOP, DSA**  
+- 🌱 Love learning, building, and contributing to open-source  
+- ✨ Goal: To become a **versatile full-stack developer**  
 
 ---
 
@@ -60,15 +68,50 @@
 </p>
 
 ---
+
+## 📈 Commit Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaKailasKadam&theme=react-dark&bg_color=0f2027,203a43,2c5364&color=ffffff&line=00c6ff&point=ffffff&area=true&hide_border=true" alt="Atharva's GitHub Activity Graph" />
+</p>
+
+---
+
+## 🌟 Achievements Showcase
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaKailasKadam&theme=radical" alt="Profile Summary Card" />
+</p>
+
+---
+
+## 🎨 Languages Usage
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtharvaKailasKadam&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtharvaKailasKadam&theme=radical" alt="Most Commit Language" />
+</p>
+
+---
+
+## ⏰ Coding Habits
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtharvaKailasKadam&theme=radical&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+---
+
 ## 📫 Connect with Me:
 
+<p>
   <a href="https://www.linkedin.com/in/atharva-kadam-176325328/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" title="LinkedIn" />
   </a>
   <a href="mailto:atharvakailaskadam1809@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" title="Gmail" />
   </a>
-
+</p>
 
 ---
 
