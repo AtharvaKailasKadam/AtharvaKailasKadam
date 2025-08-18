@@ -112,7 +112,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" title="Gmail (⚠️ Not working properly)" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+  <a href="https://leetcode.com/Atharva_Kailas_Kadam_2002/" target="_blank">
     <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="50" title="LeetCode" />
   </a>
 </p>
