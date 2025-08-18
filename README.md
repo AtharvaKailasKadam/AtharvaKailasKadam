@@ -97,7 +97,7 @@
 ## ⏰ Coding Habits
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtharvaKailasKadam&theme=radical&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtharvaKailasKadam&theme=radical&utcOffset=5.30" alt="Productive Time" />
 </p>
 
 ---
