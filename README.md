@@ -103,16 +103,19 @@
 ---
 ## 📫 Connect with Me:
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/atharva-kadam-176325328/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" title="LinkedIn" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="50" title="LinkedIn" />
   </a>
-  <a href="mailto:atharvakailaskadam1809@gmail.com">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=atharvakailaskadam1809@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" title="Gmail (⚠️ Not working properly)" />
   </a>
-  <a href="https://leetcode.com/Atharva_Kailas_Kadam_2002/" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
     <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="50" title="LeetCode" />
   </a>
 </p>
+
 
 > 💬 _“Code is like humor. When you have to explain it, it’s bad.”_ – **Cory House**
