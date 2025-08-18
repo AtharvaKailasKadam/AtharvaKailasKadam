@@ -101,7 +101,6 @@
 </p>
 
 ---
-
 ## 📫 Connect with Me:
 
 <p>
@@ -109,10 +108,11 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" title="LinkedIn" />
   </a>
   <a href="mailto:atharvakailaskadam1809@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" title="Gmail" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" title="Gmail (⚠️ Not working properly)" />
+  </a>
+  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+    <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="50" title="LeetCode" />
   </a>
 </p>
-
----
 
 > 💬 _“Code is like humor. When you have to explain it, it’s bad.”_ – **Cory House**
