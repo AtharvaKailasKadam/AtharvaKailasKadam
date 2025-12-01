@@ -39,6 +39,8 @@
 ### 🚀 Frameworks, Libraries & Runtime:
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="50" title="React" />
+  <img src="https://logo.svgcdn.com/logos/react-router.svg" width="65" title="React Router" />
+
 </p>
 
 ### 🛠 Tools & OS:
